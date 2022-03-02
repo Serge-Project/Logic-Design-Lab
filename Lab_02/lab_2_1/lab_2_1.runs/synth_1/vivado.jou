@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Wed Mar  2 23:37:09 2022
+# Process ID: 10284
+# Current directory: C:/Users/User/Desktop/Logic-Design-Lab/Lab_02/lab_2_1/lab_2_1.runs/synth_1
+# Command line: vivado.exe -log smux.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source smux.tcl
+# Log file: C:/Users/User/Desktop/Logic-Design-Lab/Lab_02/lab_2_1/lab_2_1.runs/synth_1/smux.vds
+# Journal file: C:/Users/User/Desktop/Logic-Design-Lab/Lab_02/lab_2_1/lab_2_1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source smux.tcl -notrace
